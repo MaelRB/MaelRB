@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaelRB
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently working on publishing an app on the App store
 - 📫 How to reach me : mael.rb@outlook.com 
 
 <!---
